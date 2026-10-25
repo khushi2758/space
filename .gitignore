@@ -1,0 +1,6 @@
+
+# Keep secrets out of Git
+IITBBS/backend/.env
+IITBBS/frontend/.env
+IITBBS/frontend/.env.local
+
