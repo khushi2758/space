@@ -5,7 +5,7 @@ export default function AestDest() {
   return (
     <> 
       <Navbar />
-      <div className='mt-10'>
+      <div >
 
       </div>
       <AesteroidsDashboard />
