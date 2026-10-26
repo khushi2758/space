@@ -3,12 +3,9 @@ import Navbar from '../Homepage/navbar'
 
 export default function AestDest() {
   return (
-    <> 
+    <div className='bg-black'> 
       <Navbar />
-      <div >
-
-      </div>
       <AesteroidsDashboard />
-      </>
+      </div>
   )
 }
